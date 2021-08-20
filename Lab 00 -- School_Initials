@@ -1,0 +1,9 @@
+public class School_Initials {
+    public static void main(String[] args) {
+        System.out.println("77777 L     H   H SSSSS");
+        System.out.println("    7 L     H   H S");
+        System.out.println("    7 L     HHHHH SSSSS");
+        System.out.println("    7 L     H   H     S");
+        System.out.println("    7 LLLLL H   H SSSSS");
+    }
+}
