@@ -1,0 +1,7 @@
+public class CompSci {
+    public static void main(String[] args) {
+        System.out.println("Seven Lakes Spartans");
+        System.out.println("Go Navy and Orange");
+        System.out.println("CompSci Rocks!");
+    }
+}
